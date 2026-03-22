@@ -1,0 +1,20 @@
+{
+  "name": "bot-vendas",
+  "version": "1.0.0",
+  "main": "bot-vendas-mercadopago.ts",
+  "scripts": {
+    "dev": "tsx bot-vendas-mercadopago.ts",
+    "start": "tsx bot-vendas-mercadopago.ts"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mercadopago": "^2.0.15"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.3"
+  }
+}
