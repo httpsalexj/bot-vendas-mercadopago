@@ -180,7 +180,7 @@ async function handleCommand(interaction: ChatInputCommandInteraction) {
         'Escolha uma das opções disponíveis abaixo para apoiar ou adquirir seu plano.',
         '',
         '📅 **Pagamento Mensal**',
-        'Valor fixo de **R$ 2,50 por mês**.',
+        'Valor fixo de **R$ 2,60 por mês**.',
         '',
         '⭐ **Patrocinador**',
         'Aceitamos qualquer valor acima de **R$ 1,00**.',
